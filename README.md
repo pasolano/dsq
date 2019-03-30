@@ -1,2 +1,0 @@
-# dsq
-Deque, Stack, Queue
